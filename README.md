@@ -1,23 +1,42 @@
 # Samuel García
 
-**Mathematics & Computer Engineering · MSc Artificial Intelligence**
+**AI/ML Engineer · Applied AI · Python & C++**
 
-I build and evaluate systems at the intersection of **machine learning, optimization and quantitative modelling**.
+Madrid, Spain · [Portfolio](https://samuel-garcia.pages.dev/) · [LinkedIn](https://www.linkedin.com/in/jesussamuelgarciacarballo/) · [Email](mailto:samcarjes@gmail.com)
 
-My background combines mathematical problem solving with software engineering, with a particular focus on **reproducible experiments, meaningful baselines and rigorous evaluation**.
+I build and evaluate AI and software systems with a bias toward measurable evidence: retrieval pipelines, optimisation controllers, quantitative experiments and the tests that make their claims defensible.
 
-Madrid, Spain · [LinkedIn](https://es.linkedin.com/in/jesussamuelgarciacarballo)
+- Double BSc in Mathematics and Computer Engineering, University of Granada.
+- MSc in Artificial Intelligence, Universidad Politécnica de Madrid (completed 2026); thesis graded 10/10.
+- Researcher (R1), Computational Intelligence Group, UPM (Feb–Jul 2026).
+- Accepted paper at CAEPIA 2026 / Springer proceedings (ADR-EDA).
+- English C1.
 
-## Research
+## Focus
 
-My MSc research focused on **dynamic multi-objective optimization**, including adaptive response to environmental changes and evaluation across dynamic benchmark problems.
+- Applied AI: RAG, retrieval evaluation, evidence-grounded generation, financial NLP.
+- Machine learning and optimisation: dynamic multi-objective optimisation, probabilistic models, quantitative research.
+- Software engineering: Python, C++, FastAPI, React, Docker, reproducible experiments, automated tests.
 
-A paper based on this work was accepted at **CAEPIA 2026** for publication in Springer proceedings.
+## Selected projects
 
-## Current focus
+- [ADR-EDA](https://github.com/samugc/ADR-EDA) — reliability-aware controller for dynamic multi-objective estimation of distribution algorithms; published benchmark on 14 problems × 15 seeds.
+- [FinRAG](https://github.com/samugc/FinRAG) — local financial-document question answering with inspectable evidence, source attribution and FinanceBench retrieval evaluation.
+- [JobLens](https://github.com/samugc/JobLens) — deterministic, evidence-grounded CV tailoring from multiple CVs with loopback security and PDF/DOCX export.
+- [QuantLab](https://github.com/samugc/QuantLab) — systematic portfolio experiments with explicit execution, cost and reproducibility assumptions.
+- [MarketNLP](https://github.com/samugc/MarketNLP) — financial sentiment classification comparing a TF-IDF baseline with pretrained FinBERT.
 
-My recent work spans **RAG and financial NLP, quantitative research, computer vision, scientific computing, deep reinforcement learning and robot navigation**.
+More projects and case studies: [samuel-garcia.pages.dev](https://samuel-garcia.pages.dev/)
 
-I work mainly with **Python and C++17**, alongside PyTorch, TensorFlow/Keras, scikit-learn, Hugging Face, pandas, NumPy, SciPy, SQL, Docker, Git and CI.
+## Stack
 
-Selected projects are pinned below.
+Python · C++17 · PyTorch · TensorFlow/Keras · scikit-learn · FastAPI · React · Docker · Git · pytest · NumPy · pandas · SciPy
+
+## Contact
+
+- Portfolio: https://samuel-garcia.pages.dev/
+- LinkedIn: https://www.linkedin.com/in/jesussamuelgarciacarballo/
+- GitHub: https://github.com/samugc
+- Email: samcarjes@gmail.com
+
+Open to junior/early-career AI Engineer, Applied ML, Data Scientist and Python Software Engineer roles in Madrid or remote Spain.
